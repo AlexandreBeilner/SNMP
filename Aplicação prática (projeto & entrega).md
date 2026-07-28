@@ -1,0 +1,3 @@
+- Implementar um receptor de traps resiliente em Go com parsing de OIDs proprietários
+- Construir coletor de métricas de ONU via polling com controle de concorrência (`p-limit`/worker pool)
+- Definir estratégia de coleta escalável para muitos dispositivos sem saturar agentes

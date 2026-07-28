@@ -1,0 +1,4 @@
+- Traps (v1/v2c) vs. Informs (com confirmação)
+- Recepção e parsing de traps — aplicação direta no que você vem fazendo em Go (`gosnmp/gosnmp`)
+- Simulação e teste com `snmptrap`
+- Tratamento de enterprise-specific traps e decodificação de varbinds

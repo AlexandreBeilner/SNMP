@@ -1,0 +1,3 @@
+- SNMPv1, v2c e v3: diferenças práticas
+- Limitações de segurança do v1/v2c (community string em texto puro)
+- SNMPv3: USM (autenticação MD5/SHA, criptografia DES/AES) e VACM (controle de acesso)

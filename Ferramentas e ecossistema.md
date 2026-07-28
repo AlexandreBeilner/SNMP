@@ -1,0 +1,3 @@
+- net-snmp (snmpget, snmpwalk, snmptrap, snmptranslate)
+- Bibliotecas Go (`gosnmp/gosnmp` vs. `go-snmplib`) — trade-offs já avaliados
+- Integração com TSDB/observabilidade (Prometheus snmp_exporter, Zabbix, LibreNMS)
