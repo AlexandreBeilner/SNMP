@@ -1,4 +1,3 @@
 - GET, GETNEXT, GETBULK, SET, WALK
 - Diferença entre WALK e GETBULK e impacto em performance de coleta
 - Polling: intervalos, escala e cuidado com carga no agente
-- 
