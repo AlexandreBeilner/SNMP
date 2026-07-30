@@ -1,5 +1,10 @@
 ## [[Fundamentos]]
 
+- Modelo gerenciador/agente e papel do SNMP no NMS
+- Arquitetura: portas 161 (queries) e 162 (traps), transporte UDP e implicações (perda de pacote, sem garantia de entrega)
+- Comparação SNMP vs. alternativas (NETCONF, gNMI, telemetria streaming) — quando cada um faz sentido
+
+
 **SNMP é Simple Network Management Protocol**, ele é um protocolo de gerenciamento de rede que é utilizado para gerenciar (controlar e monitorar) dispositivos de infraestrutura de rede (roteadores, switches, ONUs, servidores, etc...).
 
 Um sistema completo SNPM consiste em 3 partes
