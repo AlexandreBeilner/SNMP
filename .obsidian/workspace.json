@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos.md",
+                "file": "Versões do protocolo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentos"
+              "title": "Versões do protocolo"
             }
           }
         ]
@@ -185,11 +185,11 @@
   },
   "active": "6141ec7c5b1c57dd",
   "lastOpenFiles": [
+    "Topicos.md",
+    "Fundamentos.md",
     "Pasted image 20260728173703.png",
     "Pasted image 20260728173223.png",
     "Referencias.md",
-    "Fundamentos.md",
-    "Topicos.md",
     "Operações.md",
     "Ferramentas e ecossistema.md",
     "Estrutura de dados (MIB & OID).md",
