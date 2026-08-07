@@ -1,4 +1,0 @@
-- SMI (Structure of Management Information) e tipos de dados
-- Árvore de OIDs, MIB-II (RFC 1213) e MIBs padrão
-- Leitura e compilação de MIBs proprietárias (ex.: MIBs de fabricantes de OLT — Huawei, ZTE, Fiberhome)
-- Mapeamento de OIDs relevantes para ONUs: status, sinal óptico (Rx/Tx power), uptime, etc.

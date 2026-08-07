@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Versões do protocolo.md",
+                "file": "3 - Estrutura de dados (MIB & OID).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Versões do protocolo"
+              "title": "3 - Estrutura de dados (MIB & OID)"
             }
           }
         ],
@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -201,16 +203,16 @@
   "active": "86ce71b4e1ce303a",
   "lastOpenFiles": [
     "Topicos.md",
-    "Fundamentos.md",
-    "Versões do protocolo.md",
+    "2 - Versões do protocolo.md",
+    "1 - Fundamentos.md",
+    "3 - Estrutura de dados (MIB & OID).md",
     "Segurança.md",
+    "Traps e notificações.md",
     "Referencias.md",
     "Pasted image 20260728173703.png",
     "Pasted image 20260728173223.png",
     "Operações.md",
     "Ferramentas e ecossistema.md",
-    "Estrutura de dados (MIB & OID).md",
-    "Traps e notificações.md",
     "Aplicação prática (projeto & entrega).md",
     "Welcome.md"
   ]
