@@ -155,7 +155,7 @@ Ramo base: `1.3.6.1.4.1.2011`
 |Temperatura óptica da ONU|`1.3.6.1.4.1.2011.6.128.1.1.2.51.1.1` (`hwGponOntOpticalDdmTemperature`)|—|
 |Distância estimada até a ONU|`1.3.6.1.4.1.2011.6.128.1.1.2.46.1.20` (`hwGponDeviceOntControlRanging`)|—|
 |Quantidade de MACs conectados à ONU|`1.3.6.1.4.1.2011.6.128.1.1.2.46.1.21` (`hwGponDeviceOntControlMacCount`)|
-O status de link das portas GPON (Online = 1, Offline = 2) fica em hwGponDeviceOltControlStatus, sob 1.3.6.1.4.1.2011.6.128.1.1.2.21.1.10. A indexação dessas tabelas segue o padrão `oid.porta_da_olt.id_da_ont` — ou seja, cada valor individual de uma ONU específica é acessado concatenando o OID base com o índice da porta e o ID da ONU.
+O status de link das portas GPON (Online = 1, Offline = 2) fica em hwGponDeviceOltControlStatus, sob 1.3.6.1.4.1.2011.6.128.1.1.2.21.1.10. A indexação dessas tabelas segue o padrão `oid.porta_da_olt.id_da_ont`, ou seja, cada valor individual de uma ONU específica é acessado concatenando o OID base com o índice da porta e o ID da ONU.
 
 ### FiberHome (PEN 5875)
 
@@ -169,4 +169,4 @@ Ramo base: `1.3.6.1.4.1.5875.800`
 |Número da ONU|`1.3.6.1.4.1.5875.800.3.10.1.1.4`|ONU number/índice [PDFCOFFEE.COM](https://pdfcoffee.com/fiberhome-gepon-5116-5516-mib-open-interface-specifications-pdf-free.html)|
 |Status geral do OLT (fonte de energia)|`1.3.6.1.4.1.5875.800.3.60.1.1.2.<n>`|1 = normal, 2 = baixa voltagem, 3 = falha [PDFCOFFEE.COM](https://pdfcoffee.com/download/oids-fiberhome-pdf-free.html)|
 |Temperatura|`1.3.6.1.4.1.5875.800.3.9.4.5.0`|—|
-**Fórmula de indexação da ONU (importante):** o índice é calculado como (slot) × 2²⁵ + (PON) × 2¹⁹ + (ONU) × 2⁸ + porta — bem diferente do esquema mais simples da Huawei. Isso confirma exatamente o que discutimos antes: cada fabricante inventa sua própria lógica de indexação.
+**Fórmula de indexação da ONU (importante):** o índice é calculado como (slot) × 2²⁵ + (PON) × 2¹⁹ + (ONU) × 2⁸ + porta, bem diferente do esquema mais simples da Huawei.

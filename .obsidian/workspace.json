@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topicos.md",
+                "file": "4 - Operações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topicos"
+              "title": "4 - Operações"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Estrutura de dados (MIB & OID).md",
+                "file": "1 - Fundamentos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Estrutura de dados (MIB & OID)"
+              "title": "1 - Fundamentos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentos.md",
+                "file": "4 - Operações.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fundamentos"
+              "title": "Backlinks"
             }
           },
           {
@@ -200,20 +199,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "86ce71b4e1ce303a",
+  "active": "6141ec7c5b1c57dd",
   "lastOpenFiles": [
-    "4 - Operações.md",
-    "3 - Estrutura de dados (MIB & OID).md",
-    "Topicos.md",
-    "Referencias.md",
-    "6 - Ferramentas e ecossistema.md",
     "5 - Segurança.md",
     "5 - Traps e notificações.md",
-    "2 - Versões do protocolo.md",
+    "4 - Operações.md",
+    "Topicos.md",
     "1 - Fundamentos.md",
+    "6 - Ferramentas e ecossistema.md",
+    "Aplicação prática (projeto & entrega).md",
+    "3 - Estrutura de dados (MIB & OID).md",
+    "Referencias.md",
+    "2 - Versões do protocolo.md",
     "Pasted image 20260728173703.png",
     "Pasted image 20260728173223.png",
-    "Aplicação prática (projeto & entrega).md",
     "Welcome.md"
   ]
 }
