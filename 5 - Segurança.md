@@ -1,3 +1,0 @@
-- Hardening de community strings e migração para v3
-- Restrição de acesso por ACL/firewall nas portas SNMP
-- Boas práticas em ambiente multi-cliente
