@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e01281db47e1fc6",
@@ -201,10 +202,10 @@
   },
   "active": "6141ec7c5b1c57dd",
   "lastOpenFiles": [
+    "6 - Segurança.md",
+    "5 - Traps e notificações.md",
     "Z - TÓPICOS - Z.md",
     "VLAN.md",
-    "5 - Traps e notificações.md",
-    "6 - Segurança.md",
     "7 - Ferramentas e ecossistema.md",
     "2 - Versões do protocolo.md",
     "4 - Operações.md",
